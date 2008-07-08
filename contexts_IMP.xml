@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?NLS TYPE="org.eclipse.help.contexts"?>
+<contexts>
+
+    <!-- Actions -->
+    <context id="add_unimplemented_constructors_action_context">
+        <description>This command copies the constructors of the super class to the selected class.</description>
+        <topic label="Source actions" href="reference/ref-menu-source.htm"/>
+    </context>
+
+    <!-- Editor -->
+    <context id="imp_editor_context">
+        <description>The IMP editor provides language-specific text editing support.</description>
+        <topic label="IMP editor concepts" href="concepts/concepts-main.htm"/>
+        <topic label="IMP editor reference" href="reference/editor-main.htm"/>
+        <topic label="Opening an IMP editor" href="gettingStarted/openEditor.htm"/>
+        <topic label="Using content assist" href="gettingStarted/contentAssist.htm"/>
+        <topic label="Identifying problems in your code" href="gettingStarted/problems.htm"/>
+        <topic label="IMP editor preferences" href="reference/preferences.htm"/>
+    </context>
+</contexts>
